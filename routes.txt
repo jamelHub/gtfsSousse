@@ -1,0 +1,2 @@
+agency_id,route_color,route_id,route_long_name,route_short_name,route_text_color,route_type
+1,,1002,Route1 - Souk - Kantaoui,R1-S-K,,3

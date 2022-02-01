@@ -1,0 +1,81 @@
+stop_id,stop_lat,stop_lon,stop_name,wheelchair_boarding,zone_id
+1_1,35.8139,10.62945,Souk Al Ahad ,0,1_1
+1_0,35.813805,10.629678,Souk Al Ahad ,0,1_0
+40_1,35.82941,10.6341,Dar Al Thakafa,0,40_1
+41_1,35.82897,10.63978,Beb Bhar,0,41_1
+42_1,35.82376,10.64046,Beb Jdid,0,42_1
+39_1,35.96352,10.53724,Hotel Targui,0,39_1
+39_0,35.96354,10.53732,Hotel Targui,0,39_0
+38_1,35.9594,10.53945,Kiosque Staroil Chatt Mariem,0,38_1
+38_0,35.95944,10.53957,Kiosque Staroil Chatt Mariem,0,38_0
+37_0,35.95682,10.54115,Hotel Tennis,0,37_0
+37_1,35.9568,10.54102,Hotel Tennis,0,37_1
+36_0,35.95054,10.54505,Gandouz,0,36_0
+36_1,35.95052,10.54498,Gandouz,0,36_1
+35_0,35.94675,10.54821,Al Ahoueche,0,35_0
+35_1,35.94672,10.54813,Al Ahoueche,0,35_1
+34_0,35.94014,10.55316,Mostawsef,0,34_0
+34_1,35.94008,10.55305,Mostawsef,0,34_1
+33_1,35.93868,10.55428,Primary school chat Mariem,0,33_1
+33_0,35.93872,10.55436,Primary school chat Mariem,0,33_0
+32_0,35.93426,10.55898,Mosquee,0,32_0
+32_1,35.93422,10.55891,Mosquee,0,32_1
+31_1,35.93139,10.56142,Lacosta,0,31_1
+31_0,35.93149,10.56164,Lacosta,0,31_0
+30_1,35.929,10.56399,Ouled Brahem,0,30_1
+30_0,35.92911,10.56417,Ouled Brahem,0,30_0
+29_1,35.92544,10.5671,Boucherie Charcuterie Pepi’s,0,29_1
+29_0,35.92552,10.56733,Boucherie Charcuterie Pepi’s,0,29_0
+28_1,35.92104,10.56982,Centre d’agriculture Biologique Chott Mariem,0,28_1
+28_0,35.92113,10.57002,Centre d’agriculture Biologique Chott Mariem,0,28_0
+27_1,35.91888,10.57127,L’aajjel,0,27_1
+27_0,35.91897,10.57147,L’aajjel,0,27_0
+26_1,35.9168,10.57267,Lavage Kantaoui,0,26_1
+26_0,35.91687,10.57287,Lavage Kantaoui,0,26_0
+25_1,35.91264,10.57577,Hotel Souviva Resort,0,25_1
+25_0,35.91272,10.57597,Hotel Souviva Resort,0,25_0
+24_1,35.90816,10.57924,Hotel Salima,0,24_1
+24_0,35.90821,10.57938,Hotel Salima,0,24_0
+23_1,35.90349,10.58246,Hotel Mouradi Palace,0,23_1
+23_0,35.90357,10.58258,Hotel Mouradi Palace,0,23_0
+22_1,35.90081,10.58476,Hotel Riviera,0,22_1
+22_0,35.90091,10.58493,Hotel Riviera,0,22_0
+21_1,35.89635,10.58914,Hotel Kanta,0,21_1
+21_0,35.89643,10.58925,Hotel Kanta,0,21_0
+20_1,35.891,10.59441,Marsa Kantaoui,0,20_1
+20_0,35.89107,10.59458,Marsa Kantaoui,0,20_0
+19_1,35.88794,10.59614,Hotel Vinci Kantaoui centre,0,19_1
+19_0,35.888,10.59628,Hotel Vinci Kantaoui centre,0,19_0
+18_0,35.88168,10.59895,High Square,0,18_0
+18_1,35.88167,10.59876,High Square,0,18_1
+17_0,35.8737,10.60146,Jazz Coffee,0,17_0
+17_1,35.87367,10.60125,Jazz Coffee,0,17_1
+16_1,35.86854,10.60409,Hotel Cliopatre,0,16_1
+16_0,35.86863,10.60432,Hotel Cliopatre,0,16_0
+15_1,35.86621,10.6064,Hotel Sindibed,0,15_1
+15_0,35.86634,10.60664,Hotel Sindibed,0,15_0
+14_1,35.86186,10.61089,Royale Jinene,0,14_1
+14_0,35.86196,10.61105,Royale Jinene,0,14_0
+13_0,35.85978,10.61321,Jawhara FM,0,13_0
+13_1,35.8597,10.61306,Jawhara FM,0,13_1
+12_1,35.85789,10.61463,Hotel Royale Sellem,0,12_1
+12_0,35.85796,10.61483,Hotel Royale Sellem,0,12_0
+11_1,35.8549,10.6156,Clinique Zayatin,0,11_1
+11_0,35.85492,10.61578,Clinique Zayatin,0,11_0
+10_1,35.85308,10.61583,Cafe Casa Del Gelato,0,10_1
+10_0,35.85309,10.61601,Cafe Casa Del Gelato,0,10_0
+9_1,35.84912,10.61695,L’ksar,0,9_1
+9_0,35.84915,10.61715,L’ksar,0,9_0
+8_1,35.84695,10.61847,Khalaf,0,8_1
+8_0,35.84709,10.61874,Khalaf,0,8_0
+7_0,35.8433,10.61821,Mosquee M’saddelk,0,7_0
+7_1,35.84334,10.61814,Mosquee M’saddelk,0,7_1
+6_1,35.83835,10.6239,L’khmiri,0,6_1
+6_0,35.83839,10.62397,L’khmiri,0,6_0
+5_1,35.83684,10.626,Dar Al Harass,0,5_1
+5_0,35.83687,10.62608,Dar Al Harass,0,5_0
+4_1,35.83263,10.63066,Al Akwess,0,4_1
+4_0,35.83271,10.63086,Al Akwess,0,4_0
+3_0,35.82509,10.6347,Beb Lgharbi ,0,3_0
+2_1,35.81976,10.63241,Diouane Ezzyt ,0,2_1
+2_0,35.81971,10.63256,Diouane Ezzyt ,0,2_0
